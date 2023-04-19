@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Stéfane! 
 
-<!--
-**StefaneVieira/stefanevieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a curious person that it's always learning something new. I'm currently studying Java and JavaScript. 
 
-Here are some ideas to get you started:
+I'm looking forward to absorb knowledge, collaborate and build amazing products :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<h4> ⚙️ languages and tools:</h4>
+<div style="display: inline-block"></br>
+<img align="center" alt="Sté-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Sté-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Sté-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">      
+<img align="center" alt="Sté-js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
+
+</div>

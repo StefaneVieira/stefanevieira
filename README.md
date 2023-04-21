@@ -1,8 +1,9 @@
 ### Hi there, I'm Stéfane! 
 
-I’m a curious person that it's always learning something new. I'm currently studying Java and JavaScript. 
+<p>I’m a curious person that it's always learning something new and I'm currently studying Java and JavaScript.</p>
+<p>I'm a scholarship holder in the Programa Desenvolve 2023, from Grupo Boticário in partnership with Alura.</p>
 
-I'm looking forward to absorb knowledge, collaborate and build amazing products :)
+Also, I'm looking forward to absorb knowledge, collaborate and build amazing products :)
 
 ##
 <h4> ⚙️ languages and tools:</h4>

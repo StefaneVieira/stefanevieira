@@ -1,9 +1,17 @@
-### Hi there, I'm Stéfane! 
+<h5>PT-BR</h5>
+<h1>Olá, me chamo Stéfane!</h1>
+<p>Sou uma pessoa curiosa que está sempre aprendendo algo novo e atualmente estou estudando Java e JavaScript.</p>
+<p>Sou bolsista do Programa Desenvolve 2023, do Grupo Boticário em parceria com a Alura.</p>
+
+<p>Além disso, estou ansiosa para absorver conhecimento, colaborar e criar produtos incríveis :)</p>
+
+<h5>EN</h5>
+<h1>Hi there, I'm Stéfane!</h1> 
 
 <p>I’m a curious person that it's always learning something new and I'm currently studying Java and JavaScript.</p>
 <p>I'm a scholarship holder in the Programa Desenvolve 2023, from Grupo Boticário in partnership with Alura.</p>
 
-Also, I'm looking forward to absorb knowledge, collaborate and build amazing products :)
+<p>Also, I'm looking forward to absorb knowledge, collaborate and build amazing products :)<p/>
 
 ##
 <h4> ⚙️ languages and tools:</h4>
